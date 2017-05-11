@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ug-arab"
+"ResourceDimensions"		"language-ug-cn"
+
+[Files]
+"D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\obj\Release\split.language-ug-arab.pri"			"resources.pri"

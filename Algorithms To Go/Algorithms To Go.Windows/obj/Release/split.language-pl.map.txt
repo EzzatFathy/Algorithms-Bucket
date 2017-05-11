@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pl"
+"ResourceDimensions"		"language-pl"
+
+[Files]
+"D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\obj\Release\split.language-pl.pri"			"resources.pri"

@@ -1,0 +1,204 @@
+﻿<Page
+    x:Class="Algorithms_To_Go.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Algorithms_To_Go"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+
+        <CommandBar Background="#ed7b5c">
+            <AppBarButton Name="aboutp" Icon="Help"  Label="about" Click="aboutp_Click"  />
+            <AppBarButton Icon="LikeDislike" Label="Rate" Click="AppBarButton_Click"  />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+
+    <Grid Background="#ffffff">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+
+        <Grid>
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/vvv.jpg"/>
+            </Grid.Background>
+            <Hub>
+                <Hub.Header>
+                    <!-- Back button and page title -->
+                    <Grid Width="382">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="80"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <!--<Grid.Background>
+                     <ImageBrush Stretch="Fill" ImageSource="Assets/back1.png"/>
+                        </Grid.Background>-->
+                        <TextBlock x:Name="pageTitle" Text="Algorithms Bucket" FontFamily="Snap ITC" 
+                        IsHitTestVisible="false" FontSize="30"  FontWeight="ExtraBold" Foreground="#ed7b5c" TextWrapping="NoWrap" VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="20,50,0,0" />
+
+                    </Grid>
+                </Hub.Header>
+
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+
+
+                <HubSection  x:Name="section_2"  IsHeaderInteractive="True" 
+                        x:Uid="Section3Header" Background="#f8c27a" Header="Mathimatics"  Height="544" Padding="40,40,40,32" Width="390">
+                    <!--d:DataContext="{Binding Groups[3], Source={d:DesignData Source=../Programs Hup.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}-->
+                    <DataTemplate>
+
+                            <GridView x:Name="math"  Height="330"  Width="310" IsItemClickEnabled="True" Loaded="math_Loaded"  ItemClick="math_ItemClick" >
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="5">
+                                            <Image Source="{Binding PImage}"  Height="120" Width="120"/>
+                                        <Border Opacity=".6"  Background="#47749d" Width="120" Height="35"  VerticalAlignment="Bottom" >
+                                                <TextBlock FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#ffffff" FontWeight="Bold" Text="{Binding PName}"/>
+                                            </Border>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                            </GridView>
+
+
+                    </DataTemplate>
+                </HubSection>
+
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+
+                <HubSection  x:Name="section_3"  IsHeaderInteractive="True" 
+                        x:Uid="Section3Header"  Background="#666666" Header="Comparison Sorting" Height="544" Padding="40,40,40,32" Width="390">
+                    <!--d:DataContext="{Binding Groups[3], Source={d:DesignData Source=../Programs Hup.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}-->
+                    <DataTemplate>
+
+                        <GridView x:Name="comp_sort"  Height="330"  Width="310" IsItemClickEnabled="True" Loaded="comp_sort_Loaded"  ItemClick="comp_sort_ItemClick" >
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <Image Source="{Binding PImage}"  Height="120" Width="120"/>
+                                        <Border Opacity=".6"  Background="Turquoise" Width="120" Height="35"  VerticalAlignment="Bottom" >
+                                            <TextBlock FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#ffffff" FontWeight="Bold" Text="{Binding PName}"/>
+                                        </Border>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+
+                    </DataTemplate>
+                </HubSection>
+
+              
+
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+
+
+
+                <HubSection  x:Name="section_6"  IsHeaderInteractive="True" 
+                        x:Uid="Section3Header"  Background="#59b359" Header="Graph" Height="544" Padding="40,40,40,32" Width="390">
+                    <!--d:DataContext="{Binding Groups[3], Source={d:DesignData Source=../Programs Hup.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}-->
+                    <DataTemplate>
+
+                        <GridView x:Name="graph"  Height="330"  Width="310" IsItemClickEnabled="True" Loaded="graph_Loaded"  ItemClick="graph_ItemClick" >
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <Image Source="{Binding PImage}"  Height="120" Width="120"/>
+                                        <Border Opacity=".6"  Background="#dba162" Width="120" Height="35"  VerticalAlignment="Bottom" >
+                                            <TextBlock FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#ffffff" FontWeight="Bold" Text="{Binding PName}"/>
+                                        </Border>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+
+                    </DataTemplate>
+                </HubSection>
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+                <HubSection  x:Name="section_7"  Background="#e5d2aa" Header="Dynamic Programming" Height="544" Padding="40,40,40,32" Width="390">
+                    <!--d:DataContext="{Binding Groups[3], Source={d:DesignData Source=../Programs Hup.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}-->
+                    <DataTemplate>
+
+                        <GridView x:Name="dynamic_prog"  Height="330"  Width="310" IsItemClickEnabled="True" Loaded="dynamic_prog_Loaded"  ItemClick="dynamic_prog_ItemClick" >
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <Image Source="{Binding PImage}"  Height="120" Width="120"/>
+                                        <Border Opacity=".6"  Background="#dba162" Width="120" Height="35"  VerticalAlignment="Bottom" >
+                                            <TextBlock FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#ffffff" FontWeight="Bold" Text="{Binding PName}"/>
+                                        </Border>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+
+                    </DataTemplate>
+                </HubSection>
+
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+
+                <HubSection  x:Name="section_4"  IsHeaderInteractive="True" 
+                        x:Uid="Section3Header"  Background="#5996cd" Header="Un Comparison Sorting" Height="544" Padding="40,40,40,32" Width="390">
+                    <!--d:DataContext="{Binding Groups[3], Source={d:DesignData Source=../Programs Hup.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}-->
+                    <DataTemplate>
+
+                        <GridView x:Name="un_comp_sort"  Height="330"  Width="310" IsItemClickEnabled="True" Loaded="un_comp_sort_Loaded"  ItemClick="un_comp_sort_ItemClick" >
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <Image Source="{Binding PImage}"  Height="120" Width="120"/>
+                                        <Border Opacity=".6"  Background="#ffd85a" Width="120" Height="35"  VerticalAlignment="Bottom" >
+                                            <TextBlock FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#ffffff" FontWeight="Bold" Text="{Binding PName}"/>
+                                        </Border>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+
+                    </DataTemplate>
+                </HubSection>
+
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+                <!--/// //////////////////////////////////////////////////////-->
+
+
+                <HubSection  x:Name="section_5"  IsHeaderInteractive="True" 
+                        x:Uid="Section3Header"  Background="#e5d2aa" Header="Tree" Height="544" Padding="40,40,40,32" Width="390">
+                    <!--d:DataContext="{Binding Groups[3], Source={d:DesignData Source=../Programs Hup.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}-->
+                    <DataTemplate>
+
+                        <GridView x:Name="tree"  Height="330"  Width="310" IsItemClickEnabled="True" Loaded="tree_Loaded"  ItemClick="tree_ItemClick" >
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <Image Source="{Binding PImage}"  Height="120" Width="120"/>
+                                        <Border Opacity=".6"  Background="#8df599" Width="120" Height="35"  VerticalAlignment="Bottom" >
+                                            <TextBlock FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#ffffff" FontWeight="Bold" Text="{Binding PName}"/>
+                                        </Border>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+
+                    </DataTemplate>
+                </HubSection>
+
+
+            </Hub>
+
+        </Grid>
+    </Grid>
+</Page>

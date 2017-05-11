@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="4203TahaHussein.AlgorithmsBucket" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US, EN-GB</Language>
+			<Scale>80, 100</Scale>
+			<TargetSize>48, 32, 256, 16</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="About.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/About.xbf">
+				<Candidate type="Path">
+					<Value>About.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Algorithms To Go.Windows.xr.xml" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Algorithms%20To%20Go.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>Algorithms To Go.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="data_page.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/data_page.xbf">
+				<Candidate type="Path">
+					<Value>data_page.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AdDuplex.Universal.Controls.Win.XAML">
+				<NamedResource name="AdDuplex.Universal.Controls.Win.XAML.xr.xml" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/AdDuplex.Universal.Controls.Win.XAML/AdDuplex.Universal.Controls.Win.XAML.xr.xml">
+					<Candidate type="Path">
+						<Value>AdDuplex.Universal.Controls.Win.XAML\AdDuplex.Universal.Controls.Win.XAML.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/AdDuplex.Universal.Controls.Win.XAML/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="algo.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/algo.png">
+					<Candidate type="Path">
+						<Value>Assets\algo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="vvv.jpg" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/vvv.jpg">
+					<Candidate type="Path">
+						<Value>Assets\vvv.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assembly logo">
+					<NamedResource name="About background.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/About%20background.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\About background.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Assembly 5-1.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/Assembly%205-1.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Assembly 5-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Blue.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/Blue.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Blue.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FBL.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/FBL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\FBL.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon 1.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/Logo%20Icon%201.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon 1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/Logo%20Icon.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon2.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/Logo%20Icon2.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TL.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/Assembly%20logo/TL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\TL.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="dynm_prog">
+					<ResourceMapSubtree name="Knapsack">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="8.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/8.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\8.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="9.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/9.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\9.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Knapsack/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Knapsack\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Longest Common">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Common/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Common\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Longest Increasing">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/dynm_prog/Longest%20Increasing/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\dynm_prog\Longest Increasing\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="graph">
+					<ResourceMapSubtree name="Breadth">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Breadth/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Breadth\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Depth">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Depth/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Depth\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Dijikstra">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Dijikstra/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Dijikstra\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Prim">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/graph/Prim/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\graph\Prim\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="math">
+					<ResourceMapSubtree name="Pascal">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Pascal/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Pascal\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Prime">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Prime/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Prime\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Sieve">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face - Copy.png" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/face%20-%20Copy.png">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\face - Copy.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/math/Sieve/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\math\Sieve\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="sortings">
+					<ResourceMapSubtree name="bubble">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/bubble/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\bubble\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="heap">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo max heap.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/pseudo%20max%20heap.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\pseudo max heap.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo.jpg" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/heap/pseudo.jpg">
+							<Candidate type="Path">
+								<Value>Assets\sortings\heap\pseudo.jpg</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="insertion">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/insertion/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\insertion\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="merge">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/sortings/merge/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\sortings\merge\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="tree">
+					<ResourceMapSubtree name="Lowest">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/tree/Lowest/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\tree\Lowest\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="unsortings">
+					<ResourceMapSubtree name="Bucket">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/pseudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\pseudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Bucket/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Bucket\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Counting">
+						<NamedResource name="1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="3.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/3.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\3.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="4.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/4.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\4.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="5.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/5.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\5.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="6.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/6.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\6.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="7.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/7.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\7.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="analysis.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/analysis.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\analysis.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="face.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/face.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\face.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pesudo1.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/pesudo1.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\pesudo1.PNG</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pseudo2.PNG" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Assets/unsortings/Counting/pseudo2.PNG">
+							<Candidate type="Path">
+								<Value>Assets\unsortings\Counting\pseudo2.PNG</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.Advertising.WinRT.UI">
+				<NamedResource name="AdSettingsFlyout.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Microsoft.Advertising.WinRT.UI/AdSettingsFlyout.xbf">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bootstrap.html" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Microsoft.Advertising.WinRT.UI/bootstrap.html">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\bootstrap.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mraidApi.html" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Microsoft.Advertising.WinRT.UI/mraidApi.html">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\mraidApi.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ormma.js" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Microsoft.Advertising.WinRT.UI/ormma.js">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\ormma.js</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/Microsoft.Advertising.WinRT.UI/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftAdvertising">
+				<ResourceMapSubtree name="IntelliSense">
+					<NamedResource name="AdErrorEventArgs.xml" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MicrosoftAdvertising/IntelliSense/AdErrorEventArgs.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\AdErrorEventArgs.xml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ErrorCode.xml" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MicrosoftAdvertising/IntelliSense/ErrorCode.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\ErrorCode.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MyToolkit.Extended">
+				<NamedResource name="MyToolkit.Extended.xr.xml" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MyToolkit.Extended/MyToolkit.Extended.xr.xml">
+					<Candidate type="Path">
+						<Value>MyToolkit.Extended\MyToolkit.Extended.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="DatePicker.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MyToolkit.Extended/Controls/DatePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\DatePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimePicker.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MyToolkit.Extended/Controls/TimePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\TimePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MyToolkit.Extended/Themes/generic.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Themes\generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="UI">
+					<ResourceMapSubtree name="Popups">
+						<NamedResource name="ListPickerBox.xbf" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/Files/MyToolkit.Extended/UI/Popups/ListPickerBox.xbf">
+							<Candidate type="Path">
+								<Value>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MicrosoftAdvertising">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AdGameComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AdManagerNotInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AdMangerAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AdUnitIdAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdIsRequired" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AdUnitIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>adUnitId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AllActionsMalformed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ApplicationIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AssetNodeIsSingleEntry">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoRefreshStateAlreadySet" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/AutoRefreshStateAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh state has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/BannerInformationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdControlUninitialized" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdControlUninitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is uninitialised.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/DidNotParseToEnd">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ExtractedPropertyNotAString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/FontDoesNotSupportCharacter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/GeoDataNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IncompleteInit" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/IncompleteInit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InternalError" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InternalError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAction" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InvalidAction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid action param: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InvalidDataFormat">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InvalidJsonResponse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLocation" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InvalidLocation">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InvalidParameterMissingItemSeparator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSize" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/InvalidSize">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/JsonIntegerParseOverflow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/JsonNodeIsNotADictionary">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/JsonResponseTypeInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/JsonStringValueNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/LoadContentNotCalled">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/NonPremiumWithNoApplicationId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ObjectShouldHaveNoElements">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ParameterIsLessThanPermittedLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ParameterNullOrEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ParseStackNotEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/ParseStringNotANumber">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/RectangleHeightNotSufficient">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/RefreshWhileEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileRequestInProgress" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/RefreshWhileRequestInProgress">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh was triggered but another request is already in progress.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestData or its URL is null.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/RichMediaInfoNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/StringContainsInvalidEscapeSequence">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/TextAdTitleNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/TooManyImpressionUrls">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnableToFitText" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/UnableToFitText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to fit text in the given space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/UnicodeCharacterTruncated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownAdType" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/UnknownAdType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/UnknownJsonToken">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/ExceptionMessages/UnknownRichMediaMimeType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown rich media mime type recieved: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="UIStrings">
+				<NamedResource name="AdSettings_CommandText" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_CommandText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message1" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently opted out of personalized advertising from Microsoft. Click</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You have opted out of personalised advertising from Microsoft. Click </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha thu a' diùltadh sanasachd phearsantaichte o Microsoft an-dràsta fhèin. Briog </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message2" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson barrachd fiosrachaidh air na roghainnean.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message_Here" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message_Here">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>an-seo</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Header" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalize ads in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalise ads in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Cleachdaidh Microsoft Advertising am fiosrachadh agam ach am faigh mi sanasachd phearsantaichte san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Off" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Off">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_On" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_On">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Privacy" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Privacy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Aithris na prìobhaideachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SectionName" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SectionName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising settings</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising Settings</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Roghainnean na sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt1" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently signed out.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You are currently signed out. </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil thu clàraichte a-staigh an-dràsta fhèin. </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt2" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to enable personalized advertising in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to enable personalised advertising in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson sanasachd phearsantaichte a chur an comas san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignIn" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignIn">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign in</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-steach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignOut" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignOut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-mach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_StatusUnknown_Message" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_StatusUnknown_Message">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil fiosrachadh a' chunntais Microsoft agad ri làimh an-dràsta fhèin.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Title" uri="ms-resource://4203TahaHussein.AlgorithmsBucket/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

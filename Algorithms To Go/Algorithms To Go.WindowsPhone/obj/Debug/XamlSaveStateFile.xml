@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\algorithms bucket\algorithms to go\algorithms to go.windowsphone\obj\debug\intermediatexaml\algorithms to go.windowsphone.exe" HashGuid="19cf7ed5-b48c-0988-c406-98f4dec48eea" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.controls.winphone.xaml.dll" HashGuid="8a8b53ca-9ca1-e804-b9e9-be99ad2fa5a5" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.winphone.winrt.winmd" HashGuid="ff025b37-6fda-c558-dd2c-be8cb49ead76" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="d:\editting apps\algorithms bucket\packages\mytoolkit.2.4.0.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="625d0d7d-4b03-8be0-d664-ed21b248e410" />
+    <ReferenceAssembly PathName="d:\editting apps\algorithms bucket\packages\mytoolkit.extended.2.4.0.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="29d0a964-1a41-50cc-ac1d-9529558f9bd4" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

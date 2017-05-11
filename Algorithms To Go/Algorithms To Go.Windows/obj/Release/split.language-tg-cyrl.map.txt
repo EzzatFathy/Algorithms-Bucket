@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-tg-cyrl"
+"ResourceDimensions"		"language-tg-cyrl-tj"
+
+[Files]
+"D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\obj\Release\split.language-tg-cyrl.pri"			"resources.pri"

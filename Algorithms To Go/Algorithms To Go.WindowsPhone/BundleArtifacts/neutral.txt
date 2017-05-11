@@ -1,0 +1,4 @@
+MainPackage=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Release\Algorithms To Go.WindowsPhone_1.1.0.0_Bundle\Algorithms To Go.WindowsPhone_1.1.0.0_AnyCPU.appx
+SymbolPackage=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\AppPackages\Algorithms To Go.WindowsPhone_1.1.0.0_Test\Algorithms To Go.WindowsPhone_1.1.0.0_AnyCPU.appxsym
+ResourcePack=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Release\Algorithms To Go.WindowsPhone_1.1.0.0_Bundle\Algorithms To Go.WindowsPhone_1.1.0.0_scale-100.appx
+ResourcePack=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Release\Algorithms To Go.WindowsPhone_1.1.0.0_Bundle\Algorithms To Go.WindowsPhone_1.1.0.0_scale-140.appx

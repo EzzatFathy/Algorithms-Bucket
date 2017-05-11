@@ -1,0 +1,156 @@
+// java
+package com.vaibhav.test;
+ 
+import java.util.Arrays;
+ 
+public class InsertionSort {
+ 
+    public static void main(String[] args) {
+        int A[] = new int[10];
+        populateArray(A);
+        System.out.println("Before Sorting: ");
+        printArray(A);
+        // sort the array
+        insertionSort(A);
+        System.out.println("\nAfter Sorting: ");
+        printArray(A);
+    }
+ 
+    /**
+     * This method will sort the integer array using insertion sort algorithm
+     * 
+     * @param arr
+     */
+    private static void insertionSort(int[] arr) {
+        for (int i = 1; i < arr.length; i++) {
+            int valueToSort = arr[i];
+            int j = i;
+            while (j > 0 && arr[j - 1] > valueToSort) {
+                arr[j] = arr[j - 1];
+                j--;
+            }
+            arr[j] = valueToSort;
+        }
+    }
+ 
+    public static void printArray(int[] B) {
+        System.out.println(Arrays.toString(B));
+    }
+ 
+    public static void populateArray(int[] B) {
+        for (int i = 0; i < B.length; i++) {
+            B[i] = (int) (Math.random() * 100);
+        }
+    }
+}
+//////////////////////////////////////
+// c# 
+using System;
+using System.Collections.Generic;
+using System.Text;
+ 
+namespace ConsoleApplication1
+{
+    class Program
+    {
+ 
+        static int InsertionSort()
+        {
+            Console.Write("\nProgram for Ascending order of Numeric Values using INSERTION SORT");
+            Console.Write("\n\nEnter the total number of elements: ");
+            int max = Convert.ToInt32(Console.ReadLine());
+ 
+            int [] numarray = new int[max];
+ 
+            for(int i = 0; i < max; i++)
+            {
+                Console.Write("\nEnter [" + (i + 1).ToString() + "] element: ");
+                numarray[i] = Convert.ToInt32(Console.ReadLine());
+            }
+ 
+            Console.Write("Before Sorting   : ");
+            for(int k = 0; k < max; k++)
+                Console.Write(numarray[k] + " ");
+            Console.Write("\n");  
+ 
+            for(int i = 1; i < max; i++)
+            {
+                int j = i;
+                while(j > 0)
+                {
+                    if(numarray[j-1] > numarray[j])
+                    {
+                        int temp = numarray[j - 1];
+                        numarray[j - 1] = numarray[j];
+                        numarray[j] = temp;
+                        j--;
+                    }
+                    else
+                        break;
+                }
+                Console.Write("After iteration " + i.ToString() + ": ");
+                for(int k = 0; k < max; k++)
+                    Console.Write(numarray[k] + " ");
+                Console.Write("/*** " + (i + 1).ToString() + " numbers from the begining of the array are input and they are sorted ***/\n");
+            }
+ 
+            Console.Write("\n\nThe numbers in ascending orders are given below:\n\n");
+            for(int i = 0; i < max; i++)
+            {
+                Console.Write("Sorted [" + (i + 1).ToString() + "] element: ");
+                Console.Write(numarray[i]);
+                Console.Write("\n");
+            }
+            return 0;
+        }
+ 
+ 
+        static void Main(string[] args)
+        {
+            InsertionSort();
+        }
+    }
+}
+//////////////////////////////////////
+// c++
+ 
+#include <cstdlib>
+#include <iostream>
+ 
+using namespace std;
+ 
+//member function
+void insertion_sort(int arr[], int length);
+void print_array(int array[],int size);
+ 
+int main() {
+ 
+int array[5]= {5,4,3,2,1};
+insertion_sort(array,5);
+ 
+ return 0;
+}//end of main
+ 
+void insertion_sort(int arr[], int length) {
+ int i, j ,tmp;
+ for (i = 1; i < length; i++) {
+ j = i;
+ while (j > 0 && arr[j - 1] > arr[j]) {
+ tmp = arr[j];
+ arr[j] = arr[j - 1];
+ arr[j - 1] = tmp;
+ j--;
+ }//end of while loop
+ print_array(arr,5);
+ }//end of for loop
+ }//end of insertion_sort.
+ 
+void print_array(int array[], int size){
+ 
+ cout<< "sorting: ";
+ int j;
+ for (j=0; j<size;j++)
+ for (j=0; j<size;j++)
+ cout <<" "<< array[j];
+ cout << endl;
+ }//end of print_array

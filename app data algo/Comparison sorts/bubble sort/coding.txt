@@ -1,0 +1,145 @@
+// c++ 
+#include<iostream>\n
+using namespace std;\n
+
+int main(){\n
+     //declaring array\n
+      int array[5];\n
+      cout<<"Enter 5 numbers randomly : "<<endl;\n
+      for(int i=0; i<5; i++)\n
+      {\n
+     //Taking input in array\n  
+       cin>>array[i];\n        
+      }\n  
+      cout<<endl;\n 
+      cout<<"Input array is: "<<endl;\n
+      
+      for(int j=0; j<5; j++)\n
+      {\n
+       //Displaying Array\n 
+       cout<<"\t\t\tValue at "<<j<<" Index: "<<array[j]<<endl;\n         
+      }\n   
+      cout<<endl;\n
+    // Bubble Sort Starts Here
+     int temp;\n
+     for(int i2=0; i2<=4; i2++)\n
+   {\n
+     for(int j=0; j<4; j++)\n
+     {\n
+          
+           if(array[j]>array[j+1])\n
+       {\n
+        temp=array[j];\n
+        array[j]=array[j+1];\n
+        array[j+1]=temp;\n        
+       }\n
+     }\n         
+   }\n 
+   // Displaying Sorted array
+      cout<<"  Sorted Array is: "<<endl;\n
+     for(int i3=0; i3<5; i3++)\n
+   {\n
+    cout<<"\t\t\tValue at "<<i3<<" Index: "<<array[i3]<<endl;\n  
+   }\n   
+return 0;\n
+}\n
+/////////////////////////////
+// c#
+using System;\n
+using System.Collections.Generic;\n
+using System.Text;\n
+ 
+namespace ConsoleApplication1\n
+{\n
+    class Program\n
+    {\n
+ 
+      static int BubbleSort()\n
+        {\n
+            Console.Write("\nProgram for Ascending order of Numeric Values using BUBBLE SORT");\n
+            Console.Write("\n\nEnter the total number of elements: ");\n
+            int max = Convert.ToInt32(Console.ReadLine());\n
+ 
+            int [] numarray = new int[max];\n
+ 
+            for(int i = 0; i < max; i++)\n
+            {\n
+                Console.Write("\nEnter [" + (i + 1).ToString() + "] element: ");\n
+                numarray[i] = Convert.ToInt32(Console.ReadLine());\n
+            }\n
+ 
+            Console.Write("Before Sorting   : ");\n
+            for(int k = 0; k < max; k++)\n
+                Console.Write(numarray[k] + " ");\n
+            Console.Write("\n");\n
+ 
+            for(int i = 1; i < max; i++)\n
+            {\n
+                for(int j = 0; j < max - i; j++)\n
+                {\n
+                    if(numarray[j] > numarray[j + 1])\n
+                    {\n
+                        int temp = numarray[j];\n
+                        numarray[j] = numarray[j + 1];\n
+                        numarray[j + 1] = temp;\n
+                    }\n
+                }\n
+                Console.Write("After iteration " + i.ToString() + ": ");\n
+                for(int k = 0; k < max; k++)\n
+                    Console.Write(numarray[k] +  " ");\n
+                Console.Write("/*** " + (i + 1).ToString() + " biggest number(s) is(are) pushed to the end of the array ***/\n");\n
+            }\n
+ 
+            Console.Write("\n\nThe numbers in ascending orders are given below:\n\n");\n
+            for(int i = 0; i < max; i++)\n
+            {\n
+                Console.Write("Sorted [" + (i + 1).ToString() + "] element: ");\n
+                Console.Write(numarray[i]);\n
+                Console.Write("\n");\n
+            }\n
+            return 0;\n
+        } \n 
+ 
+      static void Main(string[] args)\n
+      {\n
+            BubbleSort();\n
+           
+      }\n
+    }\n
+}\n
+////////////////////////////
+ // java
+import java.util.Scanner;\n
+ 
+class BubbleSort {\n
+  public static void main(String []args) {\n
+    int n, c, d, swap;\n
+    Scanner in = new Scanner(System.in);\n
+ 
+    System.out.println("Input number of integers to sort");\n
+    n = in.nextInt();\n
+ 
+    int array[] = new int[n];\n
+ 
+    System.out.println("Enter " + n + " integers");\n
+ 
+    for (c = 0; c < n; c++)\n 
+      array[c] = in.nextInt();\n
+ 
+    for (c = 0; c < ( n - 1 ); c++) {\n
+      for (d = 0; d < n - c - 1; d++) {\n
+        if (array[d] > array[d+1]) /* For descending order use < */\n
+        {\n
+          swap       = array[d];\n
+          array[d]   = array[d+1];\n
+          array[d+1] = swap;\n
+        }\n
+      }\n
+    }\n
+ 
+    System.out.println("Sorted list of numbers");\n
+ 
+    for (c = 0; c < n; c++)\n 
+      System.out.println(array[c]);\n
+  }\n
+}\n

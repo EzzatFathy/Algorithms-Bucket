@@ -1,0 +1,1060 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAHA</Machine>
+    <WindowsUser>Taha_Hussein</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4203TahaHussein.AlgorithmsBucket</PackageIdentityName>
+    <IntermediateOutputPath>D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>624EB414313337F73BD2FCE77B420400185CBDC9145295565B6057C7D7F032DD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4203TahaHussein.AlgorithmsBucket_1.1.0.3_neutral__jg8vh6z4j58tt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4203TahaHussein.AlgorithmsBucket_jg8vh6z4j58tt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4203TahaHussein.AlgorithmsBucket</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=51C861B3-69B8-4346-A7ED-F2FAF9D63E04</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.3</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T08:14:38.232</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\Algorithms To Go.Windows.exe">
+      <PackagePath>Algorithms To Go.Windows.exe</PackagePath>
+      <Modified>2015-12-25T16:15:18.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.dll">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.dll</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\packages\MyToolkit.2.3.31.0\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
+      <PackagePath>MyToolkit.dll</PackagePath>
+      <Modified>2015-07-28T02:10:04.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended.dll">
+      <PackagePath>MyToolkit.Extended.dll</PackagePath>
+      <Modified>2015-07-28T02:21:07.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+      <Modified>2015-04-01T08:40:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2014-04-28T15:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2014-04-28T15:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2014-04-28T15:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-28T15:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2014-04-28T15:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\mraidApi.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\mraidApi.html</PackagePath>
+      <Modified>2014-04-28T15:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2014-04-28T15:30:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:05:59.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:07:26.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:10:16.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:04:49.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:48:17.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:49:41.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:54:43.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:47:22.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:46:34.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:09:42.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:48:59.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:53:21.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:25:20.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:27:30.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:28:05.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:29:21.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:14:29.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:19:30.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:09:00.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:56:56.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:02:53.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:05:24.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:55:24.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:53:53.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:56:56.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T00:58:47.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:11:51.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:13:55.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:18:14.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-27T01:08:19.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\algo.png">
+      <PackagePath>Assets\algo.png</PackagePath>
+      <Modified>2015-07-18T18:18:13.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\1.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\1.PNG</PackagePath>
+      <Modified>2015-08-03T15:37:16.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\4.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\4.PNG</PackagePath>
+      <Modified>2015-08-03T15:43:07.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\5.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\5.PNG</PackagePath>
+      <Modified>2015-08-03T15:43:35.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\6.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\6.PNG</PackagePath>
+      <Modified>2015-08-03T15:42:36.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\7.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\7.PNG</PackagePath>
+      <Modified>2015-08-03T15:45:50.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\8.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\8.PNG</PackagePath>
+      <Modified>2015-08-03T15:46:58.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\9.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\9.PNG</PackagePath>
+      <Modified>2015-08-03T15:48:42.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\analysis.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\analysis.PNG</PackagePath>
+      <Modified>2015-08-03T15:44:19.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\face.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:16:19.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\pseudo1.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-03T15:43:57.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Knapsack\pseudo2.PNG">
+      <PackagePath>Assets\dynm_prog\Knapsack\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-03T15:52:56.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\1.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\1.PNG</PackagePath>
+      <Modified>2015-08-03T16:03:55.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\2.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\2.PNG</PackagePath>
+      <Modified>2015-08-03T16:12:04.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\3.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\3.PNG</PackagePath>
+      <Modified>2015-08-03T16:15:16.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\4.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\4.PNG</PackagePath>
+      <Modified>2015-08-03T16:16:50.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\5.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\5.PNG</PackagePath>
+      <Modified>2015-08-03T16:16:58.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\6.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\6.PNG</PackagePath>
+      <Modified>2015-08-03T16:17:22.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\7.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\7.PNG</PackagePath>
+      <Modified>2015-08-03T16:19:24.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\analysis.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\analysis.PNG</PackagePath>
+      <Modified>2015-08-03T17:06:55.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\face.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:17:26.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\pseudo1.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-03T16:04:33.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Common\pseudo2.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Common\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-03T16:10:19.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\1.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\1.PNG</PackagePath>
+      <Modified>2015-08-03T16:29:36.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\2.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\2.PNG</PackagePath>
+      <Modified>2015-08-03T16:29:51.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\3.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\3.PNG</PackagePath>
+      <Modified>2015-08-03T16:32:03.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\4.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\4.PNG</PackagePath>
+      <Modified>2015-08-03T16:32:33.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\5.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\5.PNG</PackagePath>
+      <Modified>2015-08-03T16:32:41.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\6.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\6.PNG</PackagePath>
+      <Modified>2015-08-03T16:32:59.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\7.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\7.PNG</PackagePath>
+      <Modified>2015-08-03T16:34:02.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\analysis.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\analysis.PNG</PackagePath>
+      <Modified>2015-08-03T17:18:03.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\face.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:18:21.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\pseudo1.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-03T16:26:32.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\dynm_prog\Longest Increasing\pseudo2.PNG">
+      <PackagePath>Assets\dynm_prog\Longest Increasing\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-03T16:33:45.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\1.PNG">
+      <PackagePath>Assets\graph\Breadth\1.PNG</PackagePath>
+      <Modified>2015-08-03T16:59:46.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\2.PNG">
+      <PackagePath>Assets\graph\Breadth\2.PNG</PackagePath>
+      <Modified>2015-08-03T17:00:01.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\3.PNG">
+      <PackagePath>Assets\graph\Breadth\3.PNG</PackagePath>
+      <Modified>2015-08-03T17:03:34.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\4.PNG">
+      <PackagePath>Assets\graph\Breadth\4.PNG</PackagePath>
+      <Modified>2015-08-03T17:03:50.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\5.PNG">
+      <PackagePath>Assets\graph\Breadth\5.PNG</PackagePath>
+      <Modified>2015-08-03T17:04:07.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\6.PNG">
+      <PackagePath>Assets\graph\Breadth\6.PNG</PackagePath>
+      <Modified>2015-08-03T17:04:54.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\7.PNG">
+      <PackagePath>Assets\graph\Breadth\7.PNG</PackagePath>
+      <Modified>2015-08-03T17:05:32.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\analysis.PNG">
+      <PackagePath>Assets\graph\Breadth\analysis.PNG</PackagePath>
+      <Modified>2015-08-03T17:05:15.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\face.PNG">
+      <PackagePath>Assets\graph\Breadth\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:19:09.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\pseudo1.PNG">
+      <PackagePath>Assets\graph\Breadth\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-03T17:00:57.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Breadth\pseudo2.PNG">
+      <PackagePath>Assets\graph\Breadth\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-03T17:01:44.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\1.PNG">
+      <PackagePath>Assets\graph\Depth\1.PNG</PackagePath>
+      <Modified>2015-08-03T17:24:14.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\2.PNG">
+      <PackagePath>Assets\graph\Depth\2.PNG</PackagePath>
+      <Modified>2015-08-03T17:24:27.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\3.PNG">
+      <PackagePath>Assets\graph\Depth\3.PNG</PackagePath>
+      <Modified>2015-08-03T17:24:56.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\4.PNG">
+      <PackagePath>Assets\graph\Depth\4.PNG</PackagePath>
+      <Modified>2015-08-03T17:25:17.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\5.PNG">
+      <PackagePath>Assets\graph\Depth\5.PNG</PackagePath>
+      <Modified>2015-08-03T17:25:49.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\6.PNG">
+      <PackagePath>Assets\graph\Depth\6.PNG</PackagePath>
+      <Modified>2015-08-03T17:26:40.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\7.PNG">
+      <PackagePath>Assets\graph\Depth\7.PNG</PackagePath>
+      <Modified>2015-08-03T17:27:01.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\analysis.PNG">
+      <PackagePath>Assets\graph\Depth\analysis.PNG</PackagePath>
+      <Modified>2015-08-03T17:27:33.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\face.PNG">
+      <PackagePath>Assets\graph\Depth\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:30:24.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\pseudo1.PNG">
+      <PackagePath>Assets\graph\Depth\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-03T17:28:19.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Depth\pseudo2.PNG">
+      <PackagePath>Assets\graph\Depth\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-03T17:28:57.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\1.PNG">
+      <PackagePath>Assets\graph\Dijikstra\1.PNG</PackagePath>
+      <Modified>2015-08-03T17:41:56.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\2.PNG">
+      <PackagePath>Assets\graph\Dijikstra\2.PNG</PackagePath>
+      <Modified>2015-08-03T17:42:30.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\3.PNG">
+      <PackagePath>Assets\graph\Dijikstra\3.PNG</PackagePath>
+      <Modified>2015-08-03T17:42:47.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\4.PNG">
+      <PackagePath>Assets\graph\Dijikstra\4.PNG</PackagePath>
+      <Modified>2015-08-03T17:43:52.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\5.PNG">
+      <PackagePath>Assets\graph\Dijikstra\5.PNG</PackagePath>
+      <Modified>2015-08-03T17:44:05.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\6.PNG">
+      <PackagePath>Assets\graph\Dijikstra\6.PNG</PackagePath>
+      <Modified>2015-08-03T17:44:16.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\7.PNG">
+      <PackagePath>Assets\graph\Dijikstra\7.PNG</PackagePath>
+      <Modified>2015-08-03T17:44:54.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\analysis.PNG">
+      <PackagePath>Assets\graph\Dijikstra\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T04:19:36.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\face.PNG">
+      <PackagePath>Assets\graph\Dijikstra\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:31:06.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\pseudo1.PNG">
+      <PackagePath>Assets\graph\Dijikstra\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-03T17:41:38.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Dijikstra\pseudo2.PNG">
+      <PackagePath>Assets\graph\Dijikstra\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-03T17:45:52.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\1.PNG">
+      <PackagePath>Assets\graph\Prim\1.PNG</PackagePath>
+      <Modified>2015-08-04T03:28:58.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\2.PNG">
+      <PackagePath>Assets\graph\Prim\2.PNG</PackagePath>
+      <Modified>2015-08-04T03:29:30.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\3.PNG">
+      <PackagePath>Assets\graph\Prim\3.PNG</PackagePath>
+      <Modified>2015-08-04T03:30:12.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\4.PNG">
+      <PackagePath>Assets\graph\Prim\4.PNG</PackagePath>
+      <Modified>2015-08-04T03:30:26.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\5.PNG">
+      <PackagePath>Assets\graph\Prim\5.PNG</PackagePath>
+      <Modified>2015-08-04T03:30:45.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\6.PNG">
+      <PackagePath>Assets\graph\Prim\6.PNG</PackagePath>
+      <Modified>2015-08-04T03:31:24.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\7.PNG">
+      <PackagePath>Assets\graph\Prim\7.PNG</PackagePath>
+      <Modified>2015-08-04T03:31:36.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\analysis.PNG">
+      <PackagePath>Assets\graph\Prim\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T03:32:47.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\face.PNG">
+      <PackagePath>Assets\graph\Prim\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:31:46.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\pseudo1.PNG">
+      <PackagePath>Assets\graph\Prim\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T03:32:02.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\graph\Prim\pseudo2.PNG">
+      <PackagePath>Assets\graph\Prim\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T03:32:27.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\1.PNG">
+      <PackagePath>Assets\math\Pascal\1.PNG</PackagePath>
+      <Modified>2015-08-04T09:21:03.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\2.PNG">
+      <PackagePath>Assets\math\Pascal\2.PNG</PackagePath>
+      <Modified>2015-08-04T09:23:44.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\3.PNG">
+      <PackagePath>Assets\math\Pascal\3.PNG</PackagePath>
+      <Modified>2015-08-04T09:24:18.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\4.PNG">
+      <PackagePath>Assets\math\Pascal\4.PNG</PackagePath>
+      <Modified>2015-08-04T09:25:05.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\5.PNG">
+      <PackagePath>Assets\math\Pascal\5.PNG</PackagePath>
+      <Modified>2015-08-04T09:25:42.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\6.PNG">
+      <PackagePath>Assets\math\Pascal\6.PNG</PackagePath>
+      <Modified>2015-08-04T09:26:31.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\7.PNG">
+      <PackagePath>Assets\math\Pascal\7.PNG</PackagePath>
+      <Modified>2015-08-04T09:27:41.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\analysis.PNG">
+      <PackagePath>Assets\math\Pascal\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T09:29:04.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\face.PNG">
+      <PackagePath>Assets\math\Pascal\face.PNG</PackagePath>
+      <Modified>2015-08-04T10:05:58.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\pseudo1.PNG">
+      <PackagePath>Assets\math\Pascal\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T09:28:08.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Pascal\pseudo2.PNG">
+      <PackagePath>Assets\math\Pascal\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T09:28:41.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\1.PNG">
+      <PackagePath>Assets\math\Prime\1.PNG</PackagePath>
+      <Modified>2015-08-04T09:31:43.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\2.PNG">
+      <PackagePath>Assets\math\Prime\2.PNG</PackagePath>
+      <Modified>2015-08-04T09:31:58.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\3.PNG">
+      <PackagePath>Assets\math\Prime\3.PNG</PackagePath>
+      <Modified>2015-08-04T09:32:14.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\4.PNG">
+      <PackagePath>Assets\math\Prime\4.PNG</PackagePath>
+      <Modified>2015-08-04T09:32:29.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\5.PNG">
+      <PackagePath>Assets\math\Prime\5.PNG</PackagePath>
+      <Modified>2015-08-04T09:32:37.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\6.PNG">
+      <PackagePath>Assets\math\Prime\6.PNG</PackagePath>
+      <Modified>2015-08-04T09:32:54.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\7.PNG">
+      <PackagePath>Assets\math\Prime\7.PNG</PackagePath>
+      <Modified>2015-08-04T09:33:10.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\analysis.PNG">
+      <PackagePath>Assets\math\Prime\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T09:35:59.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\face.PNG">
+      <PackagePath>Assets\math\Prime\face.PNG</PackagePath>
+      <Modified>2015-08-04T10:06:53.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\pseudo1.PNG">
+      <PackagePath>Assets\math\Prime\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T09:33:39.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Prime\pseudo2.PNG">
+      <PackagePath>Assets\math\Prime\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T09:33:59.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\1.PNG">
+      <PackagePath>Assets\math\Sieve\1.PNG</PackagePath>
+      <Modified>2015-08-04T09:08:24.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\2.PNG">
+      <PackagePath>Assets\math\Sieve\2.PNG</PackagePath>
+      <Modified>2015-08-04T09:10:27.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\3.PNG">
+      <PackagePath>Assets\math\Sieve\3.PNG</PackagePath>
+      <Modified>2015-08-04T09:10:38.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\4.PNG">
+      <PackagePath>Assets\math\Sieve\4.PNG</PackagePath>
+      <Modified>2015-08-04T09:10:49.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\5.PNG">
+      <PackagePath>Assets\math\Sieve\5.PNG</PackagePath>
+      <Modified>2015-08-04T09:11:03.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\7.PNG">
+      <PackagePath>Assets\math\Sieve\7.PNG</PackagePath>
+      <Modified>2015-08-04T09:11:20.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\analysis.PNG">
+      <PackagePath>Assets\math\Sieve\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T09:18:29.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\face - Copy.png">
+      <PackagePath>Assets\math\Sieve\face - Copy.png</PackagePath>
+      <Modified>2015-08-04T10:07:29.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\pseudo1.PNG">
+      <PackagePath>Assets\math\Sieve\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T09:13:25.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\math\Sieve\pseudo2.PNG">
+      <PackagePath>Assets\math\Sieve\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T09:15:35.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\1.PNG">
+      <PackagePath>Assets\sortings\bubble\1.PNG</PackagePath>
+      <Modified>2015-08-04T09:37:39.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\2.PNG">
+      <PackagePath>Assets\sortings\bubble\2.PNG</PackagePath>
+      <Modified>2015-08-04T09:37:50.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\3.PNG">
+      <PackagePath>Assets\sortings\bubble\3.PNG</PackagePath>
+      <Modified>2015-08-04T09:38:01.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\4.PNG">
+      <PackagePath>Assets\sortings\bubble\4.PNG</PackagePath>
+      <Modified>2015-08-04T09:38:26.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\5.PNG">
+      <PackagePath>Assets\sortings\bubble\5.PNG</PackagePath>
+      <Modified>2015-08-04T09:38:43.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\6.PNG">
+      <PackagePath>Assets\sortings\bubble\6.PNG</PackagePath>
+      <Modified>2015-08-04T09:38:58.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\7.PNG">
+      <PackagePath>Assets\sortings\bubble\7.PNG</PackagePath>
+      <Modified>2015-08-04T09:39:16.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\analysis.PNG">
+      <PackagePath>Assets\sortings\bubble\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T09:41:09.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\face.PNG">
+      <PackagePath>Assets\sortings\bubble\face.PNG</PackagePath>
+      <Modified>2015-08-04T10:04:44.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\pseudo1.PNG">
+      <PackagePath>Assets\sortings\bubble\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T09:40:28.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\bubble\pseudo2.PNG">
+      <PackagePath>Assets\sortings\bubble\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T09:40:45.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\1.PNG">
+      <PackagePath>Assets\sortings\heap\1.PNG</PackagePath>
+      <Modified>2015-07-20T15:18:20.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\2.PNG">
+      <PackagePath>Assets\sortings\heap\2.PNG</PackagePath>
+      <Modified>2015-07-20T15:17:57.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\3.PNG">
+      <PackagePath>Assets\sortings\heap\3.PNG</PackagePath>
+      <Modified>2015-07-20T15:18:44.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\4.PNG">
+      <PackagePath>Assets\sortings\heap\4.PNG</PackagePath>
+      <Modified>2015-07-20T15:14:53.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\5.PNG">
+      <PackagePath>Assets\sortings\heap\5.PNG</PackagePath>
+      <Modified>2015-07-20T15:16:53.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\6.PNG">
+      <PackagePath>Assets\sortings\heap\6.PNG</PackagePath>
+      <Modified>2015-07-29T20:57:47.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\analysis.PNG">
+      <PackagePath>Assets\sortings\heap\analysis.PNG</PackagePath>
+      <Modified>2015-07-29T00:40:25.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\face.PNG">
+      <PackagePath>Assets\sortings\heap\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:33:00.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\pseudo max heap.PNG">
+      <PackagePath>Assets\sortings\heap\pseudo max heap.PNG</PackagePath>
+      <Modified>2015-07-20T15:19:42.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\7.PNG">
+      <PackagePath>Assets\sortings\heap\7.PNG</PackagePath>
+      <Modified>2015-07-20T15:15:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\1.PNG">
+      <PackagePath>Assets\sortings\insertion\1.PNG</PackagePath>
+      <Modified>2015-05-12T06:37:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\2.PNG">
+      <PackagePath>Assets\sortings\insertion\2.PNG</PackagePath>
+      <Modified>2015-05-12T06:37:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\3.PNG">
+      <PackagePath>Assets\sortings\insertion\3.PNG</PackagePath>
+      <Modified>2015-05-12T06:38:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\4.PNG">
+      <PackagePath>Assets\sortings\insertion\4.PNG</PackagePath>
+      <Modified>2015-05-12T06:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\5.PNG">
+      <PackagePath>Assets\sortings\insertion\5.PNG</PackagePath>
+      <Modified>2015-08-04T04:25:22.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\6.PNG">
+      <PackagePath>Assets\sortings\insertion\6.PNG</PackagePath>
+      <Modified>2015-08-04T04:25:34.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\7.PNG">
+      <PackagePath>Assets\sortings\insertion\7.PNG</PackagePath>
+      <Modified>2015-08-04T04:25:50.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\analysis.PNG">
+      <PackagePath>Assets\sortings\insertion\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T04:26:31.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\face.PNG">
+      <PackagePath>Assets\sortings\insertion\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:33:38.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\pseudo1.PNG">
+      <PackagePath>Assets\sortings\insertion\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T04:26:02.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\insertion\pseudo2.PNG">
+      <PackagePath>Assets\sortings\insertion\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T04:26:15.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\1.PNG">
+      <PackagePath>Assets\sortings\merge\1.PNG</PackagePath>
+      <Modified>2015-08-04T04:28:55.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\2.PNG">
+      <PackagePath>Assets\sortings\merge\2.PNG</PackagePath>
+      <Modified>2015-08-04T04:29:21.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\3.PNG">
+      <PackagePath>Assets\sortings\merge\3.PNG</PackagePath>
+      <Modified>2015-08-04T04:29:33.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\4.PNG">
+      <PackagePath>Assets\sortings\merge\4.PNG</PackagePath>
+      <Modified>2015-08-04T04:29:49.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\5.PNG">
+      <PackagePath>Assets\sortings\merge\5.PNG</PackagePath>
+      <Modified>2015-08-04T04:30:26.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\6.PNG">
+      <PackagePath>Assets\sortings\merge\6.PNG</PackagePath>
+      <Modified>2015-08-04T04:30:00.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\7.PNG">
+      <PackagePath>Assets\sortings\merge\7.PNG</PackagePath>
+      <Modified>2015-08-04T04:30:36.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\analysis.PNG">
+      <PackagePath>Assets\sortings\merge\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T04:32:08.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\face.PNG">
+      <PackagePath>Assets\sortings\merge\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:34:18.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\pseudo1.PNG">
+      <PackagePath>Assets\sortings\merge\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T04:31:23.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\merge\pseudo2.PNG">
+      <PackagePath>Assets\sortings\merge\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T04:31:39.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\1.PNG">
+      <PackagePath>Assets\tree\Lowest\1.PNG</PackagePath>
+      <Modified>2015-08-04T09:52:28.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\2.PNG">
+      <PackagePath>Assets\tree\Lowest\2.PNG</PackagePath>
+      <Modified>2015-08-04T09:53:46.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\3.PNG">
+      <PackagePath>Assets\tree\Lowest\3.PNG</PackagePath>
+      <Modified>2015-08-04T09:54:03.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\4.PNG">
+      <PackagePath>Assets\tree\Lowest\4.PNG</PackagePath>
+      <Modified>2015-08-04T09:55:04.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\5.PNG">
+      <PackagePath>Assets\tree\Lowest\5.PNG</PackagePath>
+      <Modified>2015-08-04T09:56:00.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\6.PNG">
+      <PackagePath>Assets\tree\Lowest\6.PNG</PackagePath>
+      <Modified>2015-08-04T09:56:15.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\7.PNG">
+      <PackagePath>Assets\tree\Lowest\7.PNG</PackagePath>
+      <Modified>2015-08-04T09:56:32.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\analysis.PNG">
+      <PackagePath>Assets\tree\Lowest\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T09:58:17.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\face.PNG">
+      <PackagePath>Assets\tree\Lowest\face.PNG</PackagePath>
+      <Modified>2015-08-04T10:04:04.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\pseudo1.PNG">
+      <PackagePath>Assets\tree\Lowest\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T09:57:18.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\tree\Lowest\pseudo2.PNG">
+      <PackagePath>Assets\tree\Lowest\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T09:57:44.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\1.PNG">
+      <PackagePath>Assets\unsortings\Bucket\1.PNG</PackagePath>
+      <Modified>2015-08-04T03:47:37.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\2.PNG">
+      <PackagePath>Assets\unsortings\Bucket\2.PNG</PackagePath>
+      <Modified>2015-08-04T03:35:34.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\3.PNG">
+      <PackagePath>Assets\unsortings\Bucket\3.PNG</PackagePath>
+      <Modified>2015-08-04T03:35:46.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\4.PNG">
+      <PackagePath>Assets\unsortings\Bucket\4.PNG</PackagePath>
+      <Modified>2015-08-04T03:37:51.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\5.PNG">
+      <PackagePath>Assets\unsortings\Bucket\5.PNG</PackagePath>
+      <Modified>2015-08-04T03:38:04.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\6.PNG">
+      <PackagePath>Assets\unsortings\Bucket\6.PNG</PackagePath>
+      <Modified>2015-08-04T03:38:24.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\7.PNG">
+      <PackagePath>Assets\unsortings\Bucket\7.PNG</PackagePath>
+      <Modified>2015-08-04T03:38:39.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\analysis.PNG">
+      <PackagePath>Assets\unsortings\Bucket\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T04:23:26.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\face.PNG">
+      <PackagePath>Assets\unsortings\Bucket\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:35:02.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\pseudo1.PNG">
+      <PackagePath>Assets\unsortings\Bucket\pseudo1.PNG</PackagePath>
+      <Modified>2015-08-04T03:38:57.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Bucket\pseudo2.PNG">
+      <PackagePath>Assets\unsortings\Bucket\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T03:35:20.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\1.PNG">
+      <PackagePath>Assets\unsortings\Counting\1.PNG</PackagePath>
+      <Modified>2015-08-04T03:48:56.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\2.PNG">
+      <PackagePath>Assets\unsortings\Counting\2.PNG</PackagePath>
+      <Modified>2015-08-04T03:49:12.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\3.PNG">
+      <PackagePath>Assets\unsortings\Counting\3.PNG</PackagePath>
+      <Modified>2015-08-04T03:52:00.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\4.PNG">
+      <PackagePath>Assets\unsortings\Counting\4.PNG</PackagePath>
+      <Modified>2015-08-04T03:52:50.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\5.PNG">
+      <PackagePath>Assets\unsortings\Counting\5.PNG</PackagePath>
+      <Modified>2015-08-04T03:54:28.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\6.PNG">
+      <PackagePath>Assets\unsortings\Counting\6.PNG</PackagePath>
+      <Modified>2015-08-04T03:54:40.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\7.PNG">
+      <PackagePath>Assets\unsortings\Counting\7.PNG</PackagePath>
+      <Modified>2015-08-04T04:02:55.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\analysis.PNG">
+      <PackagePath>Assets\unsortings\Counting\analysis.PNG</PackagePath>
+      <Modified>2015-08-04T03:52:12.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\face.PNG">
+      <PackagePath>Assets\unsortings\Counting\face.PNG</PackagePath>
+      <Modified>2015-08-04T06:35:38.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\pesudo1.PNG">
+      <PackagePath>Assets\unsortings\Counting\pesudo1.PNG</PackagePath>
+      <Modified>2015-08-04T03:54:14.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\unsortings\Counting\pseudo2.PNG">
+      <PackagePath>Assets\unsortings\Counting\pseudo2.PNG</PackagePath>
+      <Modified>2015-08-04T03:52:28.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\sortings\heap\pseudo.jpg">
+      <PackagePath>Assets\sortings\heap\pseudo.jpg</PackagePath>
+      <Modified>2015-07-20T15:14:32.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Shared\Assets\vvv.jpg">
+      <PackagePath>Assets\vvv.jpg</PackagePath>
+      <Modified>2015-06-25T23:50:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-26T08:14:20.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-08-26T08:14:20.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\data_page.xbf">
+      <PackagePath>data_page.xbf</PackagePath>
+      <Modified>2015-09-19T21:26:34.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-26T08:14:20.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\Algorithms To Go.Windows.xr.xml">
+      <PackagePath>Algorithms To Go.Windows.xr.xml</PackagePath>
+      <Modified>2015-09-02T20:58:31.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
+      <PackagePath>MyToolkit.Extended\MyToolkit.Extended.xr.xml</PackagePath>
+      <Modified>2015-07-28T02:21:07.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\DatePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\DatePicker.xbf</PackagePath>
+      <Modified>2015-07-28T02:21:07.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\TimePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\TimePicker.xbf</PackagePath>
+      <Modified>2015-07-28T02:21:07.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Themes\generic.xbf">
+      <PackagePath>MyToolkit.Extended\Themes\generic.xbf</PackagePath>
+      <Modified>2015-07-28T02:21:07.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf">
+      <PackagePath>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</PackagePath>
+      <Modified>2015-07-28T02:21:07.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-26T08:14:22.198</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

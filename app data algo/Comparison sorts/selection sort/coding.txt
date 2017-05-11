@@ -1,0 +1,121 @@
+//c++
+#include<iostream>
+#include<conio.h>
+
+using namespace std;
+
+
+template <class T>
+void s_sort(T a[],int n)
+{
+     int i,j,t;
+     for(i=0;i<n;i++)
+     {
+                     for(j=i+1;j<n;j++)
+                     {
+                                       if(a[j]<a[i]) //for descending order use if(a[j]>a[i]) 
+                                       {
+                                                    t=a[i];
+                                                    a[i]=a[j];
+                                                    a[j]=t;
+                                       }
+                     }
+     }
+}
+
+
+int main()
+{
+    int a[100],i,n;
+    cout<<"Enter The number of Element:\n";
+    cin>>n;
+    cout<<"\nEnter Elements:\n";
+    for(i=0;i<n;i++)
+    {
+
+                      cout<<"\nEnter:";
+                    cin>>a[i];
+    }
+    s_sort(a,n);
+    cout<<"\nAfter Sorting\n";
+    for(i=0;i<n;i++)
+    {
+                    cout<<a[i]<<"\t";
+    }
+    getch();
+    return 0;
+}
+////////////////////////////////////
+// c#
+using System;
+class Program
+{
+    static void Main(string[] args)
+    {
+        int array_size = 10;
+        int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
+        Console.WriteLine("The Array Before Selection Sort is: ");
+        for (int i = 0; i < array_size; i++)
+        {
+            Console.WriteLine(array[i]);
+        }
+        int tmp, min_key;
+ 
+        for (int j = 0; j < array_size - 1; j++)
+        {
+            min_key = j;
+ 
+            for (int k = j + 1; k < array_size; k++)
+            {
+                if (array[k] < array[min_key])
+                {
+                    min_key = k;
+                }
+            }
+ 
+            tmp = array[min_key];
+            array[min_key] = array[j];
+            array[j] = tmp;
+        }
+ 
+        Console.WriteLine("The Array After Selection Sort is: ");
+        for (int i = 0; i < 10; i++)
+        {
+            Console.WriteLine(array[i]);
+        }
+        Console.ReadLine();
+    }
+}
+////////////////////////////////////////
+// java
+package com.java2novice.algos;
+ 
+public class MySelectionSort {
+ 
+    public static int[] doSelectionSort(int[] arr){
+         
+        for (int i = 0; i < arr.length - 1; i++)
+        {
+            int index = i;
+            for (int j = i + 1; j < arr.length; j++)
+                if (arr[j] < arr[index]) 
+                    index = j;
+      
+            int smallerNumber = arr[index];  
+            arr[index] = arr[i];
+            arr[i] = smallerNumber;
+        }
+        return arr;
+    }
+     
+    public static void main(String a[]){
+         
+        int[] arr1 = {10,34,2,56,7,67,88,42};
+        int[] arr2 = doSelectionSort(arr1);
+        for(int i:arr2){
+            System.out.print(i);
+            System.out.print(", ");
+        }
+    }
+}
+- See more at: http://www.java2novice.com/java-sorting-algorithms/selection-sort/#sthash.KtKhAPU8.dpuf

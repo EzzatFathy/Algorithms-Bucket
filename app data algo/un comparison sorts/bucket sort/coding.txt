@@ -1,0 +1,164 @@
+// java
+import java.util.Random;
+ 
+public class Bucket_Sort 
+{
+    static int[] sort(int[] sequence, int maxValue) 
+    {
+        // Bucket Sort
+        int[] Bucket = new int[maxValue + 1];
+        int[] sorted_sequence = new int[sequence.length];
+ 
+        for (int i = 0; i < sequence.length; i++)
+            Bucket[sequence[i]]++;
+ 
+        int outPos = 0;
+        for (int i = 0; i < Bucket.length; i++)
+            for (int j = 0; j < Bucket[i]; j++)
+                sorted_sequence[outPos++] = i;
+ 
+        return sorted_sequence;
+    }
+ 
+    static void printSequence(int[] sorted_sequence) 
+    {
+        for (int i = 0; i < sorted_sequence.length; i++)
+            System.out.print(sorted_sequence[i] + " ");
+    }
+ 
+    static int maxValue(int[] sequence) 
+    {
+        int maxValue = 0;
+        for (int i = 0; i < sequence.length; i++)
+            if (sequence[i] > maxValue)
+                maxValue = sequence[i];
+        return maxValue;
+    }
+ 
+    public static void main(String args[]) 
+    {
+        System.out
+                .println("Sorting of randomly generated numbers using BUCKET SORT");
+        Random random = new Random();
+        int N = 20;
+        int[] sequence = new int[N];
+ 
+        for (int i = 0; i < N; i++)
+            sequence[i] = Math.abs(random.nextInt(100));
+ 
+        int maxValue = maxValue(sequence);
+ 
+        System.out.println("\nOriginal Sequence: ");
+        printSequence(sequence);
+ 
+        System.out.println("\nSorted Sequence: ");
+        printSequence(sort(sequence, maxValue));
+    }
+}
+///////////////////////////////
+ // c++
+#include <iostream>
+using namespace std;
+ 
+//Bucket Sort
+void bucket_sort (int arr[], int n)
+{
+  //Here range is [1,100]
+  int m = 101;
+ 
+  //Create m empty buckets
+  int buckets[m];
+ 
+  //Intialize all buckets to 0
+  for (int i = 0; i < m; ++i)
+    buckets[i] = 0;
+ 
+  //Increment the number of times each element is present in the input
+  //array. Insert them in the buckets
+  for (int i = 0; i < n; ++i)
+    ++buckets[arr[i]];
+ 
+  //Sort using insertion sort and concatenate 
+  for (int i = 0, j = 0; j < m; ++j)
+    for (int k = buckets[j]; k > 0; --k)
+      arr[i++] = j;
+}
+ 
+ 
+//Driver function to test above function
+int main()
+{	
+  int input_ar[] = {10, 24, 22, 62, 1, 50, 100, 75, 2, 3};
+  int n = sizeof (input_ar) / sizeof (input_ar[0]);
+  bucket_sort (input_ar, n);
+ 
+  cout << "Sorted Array : " << endl;	
+  for (int i = 0; i < n; ++i)
+    cout << input_ar[i] << " ";	
+ 
+  return 0;
+}
+//////////////////////////////
+ // C#
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace BucketSort
+{
+    class BucketSort
+    {
+        private void Sort(int[] integers)
+        {
+            //Verify input
+            if (integers == null || integers.Length == 0)
+                return;
+
+            //Find the maximum and minimum values in the array
+            int maxValue = integers[0]; //start with first element
+            int minValue = integers[0];
+
+            //Note: start from index 1
+            for (int i = 1; i < integers.Length; i++)
+            {
+                if (integers[i] > maxValue)
+                    maxValue = integers[i];
+
+                if (integers[i] < minValue)
+                    minValue = integers[i];
+            }
+
+            //Create a temporary "bucket" to store the values in order
+            //each value will be stored in its corresponding index
+            //scooting everything over to the left as much as possible (minValue)
+            //e.g. 34 => index at 34 - minValue
+            List<int>[] bucket = new List<int>[maxValue - minValue + 1];
+
+            //Initialize the bucket
+            for (int i = 0; i < bucket.Length; i++)
+            {
+                bucket[i] = new List<int>();
+            }
+
+            //Move items to bucket
+            for (int i = 0; i < integers.Length; i++)
+            {
+                bucket[integers[i] - minValue].Add(integers[i]);
+            }
+
+            //Move items in the bucket back to the original array in order
+            int k = 0; //index for original array
+            for (int i = 0; i < bucket.Length; i++)
+            {
+                if (bucket[i].Count > 0)
+                {
+                    for (int j = 0; j < bucket[i].Count; j++)
+                    {
+                        integers[k] = bucket[i][j];
+                        k++;
+                    }
+                }
+            }
+        }
+    }
+}

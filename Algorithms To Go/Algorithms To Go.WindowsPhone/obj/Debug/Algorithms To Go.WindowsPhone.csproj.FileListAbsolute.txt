@@ -1,0 +1,145 @@
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\App.xbf
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\about_page.xbf
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.xr.xml
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.exe
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.pdb
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\resources.pri
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.build.appxrecipe
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.g.cs
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.g.i.cs
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.g.cs
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.xaml
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.xbf
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.xaml
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.xbf
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.exe
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.pdb
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\taha hussein\documents\visual studio 2013\Projects\Algorithms To Go\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\App.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\about_page.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\data_page.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.xr.xml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.exe
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.pdb
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\resources.pri
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.build.appxrecipe
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.dll
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.Extended.dll
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.xml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.Extended.xml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.Extended.pri
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.g.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.g.i.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.g.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.xaml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.xaml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.xaml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.xbf
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.exe
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.pdb
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.csproj.GenerateResource.Cache
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\priconfig.xml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\layout.resfiles
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\resources.resfiles
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\pri.resfiles
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MyToolkit.Extended.pri.xml
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\App.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\about_page.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\data_page.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.xr.xml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.exe
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.pdb
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\resources.pri
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Algorithms To Go.WindowsPhone.build.appxrecipe
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.dll
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.Extended.dll
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.xml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.Extended.xml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\bin\Debug\MyToolkit.Extended.pri
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.g.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.g.i.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.g.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.xaml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.xaml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.xaml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\App.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\about_page.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\data_page.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.exe
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.pdb
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\Algorithms To Go.WindowsPhone.csproj.GenerateResource.Cache
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\priconfig.xml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\layout.resfiles
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\resources.resfiles
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\pri.resfiles
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\MyToolkit.Extended.pri.xml
+D:\Editting Apps\Algorithms Bucket\Algorithms To Go\Algorithms To Go.WindowsPhone\obj\Debug\ProjectArchitectures.txt

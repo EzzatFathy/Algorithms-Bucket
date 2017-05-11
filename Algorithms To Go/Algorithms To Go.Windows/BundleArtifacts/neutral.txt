@@ -1,0 +1,4 @@
+MainPackage=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Release\Algorithms To Go.Windows_1.1.0.3_Bundle\Algorithms To Go.Windows_1.1.0.3_AnyCPU.appx
+SymbolPackage=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\AppPackages\Algorithms To Go.Windows_1.1.0.3_Test\Algorithms To Go.Windows_1.1.0.3_AnyCPU.appxsym
+ResourcePack=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Release\Algorithms To Go.Windows_1.1.0.3_Bundle\Algorithms To Go.Windows_1.1.0.3_scale-140.appx
+ResourcePack=D:\Algorithms Bucket\Algorithms To Go\Algorithms To Go.Windows\bin\Release\Algorithms To Go.Windows_1.1.0.3_Bundle\Algorithms To Go.Windows_1.1.0.3_scale-180.appx

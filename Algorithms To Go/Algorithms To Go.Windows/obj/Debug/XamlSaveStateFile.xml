@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\algorithms bucket\algorithms to go\algorithms to go.windows\obj\debug\intermediatexaml\algorithms to go.windows.exe" HashGuid="d917e10b-8056-7551-a778-d9eb2ffea4b3" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\adduplex.win.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.controls.win.xaml.dll" HashGuid="ad6a1d03-eb32-18d8-2fd3-0ddb1210af0f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\adduplex.win.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.win.winrt.winmd" HashGuid="914d9b55-31e5-c71b-1ddd-485ed59353bc" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="e2e1868b-6ac9-03b1-ca83-3c4740a6cdfb" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="ff7acc79-1a32-fd80-27f3-998d24e2b25e" />
+    <ReferenceAssembly PathName="d:\editting apps\algorithms bucket\packages\mytoolkit.2.3.31.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="f954329d-f40a-4c5f-1734-127e969f3d24" />
+    <ReferenceAssembly PathName="d:\editting apps\algorithms bucket\packages\mytoolkit.extended.2.3.31.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="146a9e74-41ed-555a-91a5-4a0ce1c19c4b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
